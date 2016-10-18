@@ -1,0 +1,77 @@
+/* Styles */
+#app {
+  font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #4d4d4d;
+  max-width: 85%;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+
+a.active {
+  color: orange;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #00417b;
+}
+
+nav {
+  padding-top: 20px;
+}
+
+.headerH1 {
+  text-align: center;
+  margin-top: 0px;
+  padding-top: 15px;
+}
+
+.alignMiddle {
+  text-align: center;
+}
+
+nav {
+  margin: 10px 15px 20px;
+  font-size: 20px;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+  padding: 40px 20px;
+  background: #eaeaea;
+  border-top: 7px solid #cfd8de;
+  border-bottom: 7px solid #cfd8de;
+}
+
+.jumbotron2 {
+  background: orange;
+  margin-bottom: 0;
+  border-top: 7px solid #ffc781;
+  border-bottom: 7px solid #ffca88;
+}
+
+footer {
+  padding: 20px;
+  margin: 0;
+  font-size: 16px;
+}
+
+.courseStyle {
+  padding: 20px;
+  background: #eaeaea;
+  border-top: 7px solid #cfd8de;
+  border-bottom: 7px solid #cfd8de;
+}
+
+.table>thead>tr>th {
+  border-bottom: none;
+}
+
+.table>tbody>tr>td {
+  border-top: 1px solid black;
+}
+
+h2 {
+  margin-bottom:30px;
+}
